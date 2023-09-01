@@ -34,7 +34,11 @@ Just like explorers rely on their instruments, you use this dataset to uncover h
 <p>The cleaned dataset was also done in Power Bi for transformation.</p>
 <ol>
 <li>Split Column by Delimiter</li>
-<li>Sorting Column "Which Title Best Fit your Role", "What Industry do you work in" and "Favorite Programming Language".</li>
+<li>Sorting Column for “Which Title Best Fit your Role” and” Favorite Programming Language”.</li>
+<li>Sorting Column for “What Industry do you work in”</li>
+<li>Sorting Column for “Which Country do you live in”</li>
+<li>Sorting and Conditional Column for “Average Salary”</li>
+<li>Average Salary Changing Type</li>
 </ol>
 
 <h3>Visualization:</h3>
